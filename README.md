@@ -1,2 +1,7 @@
 # hello-world
-DSC's first repo
+
+Hello World!
+
+This is my first commit in my first Github repo.
+
+More to come!
